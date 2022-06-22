@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = example001_HW
+build_property.ProjectDir = D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\

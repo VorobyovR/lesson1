@@ -1,0 +1,15 @@
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\bin\Debug\net6.0\example001_HW.exe
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\bin\Debug\net6.0\example001_HW.deps.json
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\bin\Debug\net6.0\example001_HW.runtimeconfig.json
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\bin\Debug\net6.0\example001_HW.dll
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\bin\Debug\net6.0\ref\example001_HW.dll
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\bin\Debug\net6.0\example001_HW.pdb
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.csproj.AssemblyReference.cache
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.AssemblyInfoInputs.cache
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.AssemblyInfo.cs
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.csproj.CoreCompileInputs.cache
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.dll
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\ref\example001_HW.dll
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.pdb
+D:\02. Education\03. Programming\04. Знакомство с языками программирования\01. Знакомство с языками программирования (лекции)\lesson1\examples\example001_HW\obj\Debug\net6.0\example001_HW.genruntimeconfig.cache
